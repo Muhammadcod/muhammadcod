@@ -69,11 +69,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadcod&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadcod&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadcod&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadcod&theme=radical" alt="streak" />
 </p>
 
 ---
