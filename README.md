@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 💡 Frontend Engineer focused on building **scalable, maintainable applications**
-- ⚛️ Proud member of **[ReactSquad](https://reactsquad.dev)**  
+- ⚛️ Proud member of **[ReactSquad](https://reactsquad.com)**  
 - 🧠 Constantly learning and exploring **modern frontend architecture & patterns**
 - 🛠️ Strong interest in **design systems, performance optimization, and developer experience**
 - 🌍 Building products that simulate **real-world collaboration and team environments**
