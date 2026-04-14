@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 💡 Frontend Engineer focused on building **scalable, maintainable applications**
-- ⚛️ Proud member of **ReactSquad**
+- ⚛️ Proud member of **[ReactSquad](https://reactsquad.dev)**  
 - 🧠 Constantly learning and exploring **modern frontend architecture & patterns**
 - 🛠️ Strong interest in **design systems, performance optimization, and developer experience**
 - 🌍 Building products that simulate **real-world collaboration and team environments**
@@ -69,11 +69,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadcod&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadcod&theme=radical" alt="streak" />
 </p>
 
 ---
